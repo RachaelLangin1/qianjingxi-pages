@@ -1,0 +1,1 @@
+import{a1 as s}from"./index-DrDDiF0M.js";function e(t){return s({url:"/assisting/farmers",method:"post",data:t})}function a(){return s({url:"/assisting/farmers/selectIsAuth",method:"get"})}function n(){return s({url:"/assisting/farmers/mine",method:"get"})}export{e as a,n as g,a as s};

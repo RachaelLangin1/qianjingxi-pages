@@ -1,0 +1,1 @@
+import{_ as s}from"./index-C1gb1iG7.js";import{r as t,p as n,q as o,y as l,x as c}from"./index-D-DTozzg.js";const d={__name:"index",setup(p){const r=t("https://1bd3ea03.r6.cpolar.cn/druid/login.html");return(u,e)=>(o(),n("div",null,[l(c(s),{src:r.value,"onUpdate:src":e[0]||(e[0]=a=>r.value=a)},null,8,["src"])]))}};export{d as default};

@@ -1,0 +1,1 @@
+import{_ as t}from"./index-C1gb1iG7.js";import{r as n,t as o,q as c,A as l,x as e}from"./index-D-DTozzg.js";const i={__name:"index",setup(p){const r=n("https://1bd3ea03.r6.cpolar.cn/swagger-ui/index.html");return(u,s)=>(c(),o(e(t),{src:e(r),"onUpdate:src":s[0]||(s[0]=a=>l(r)?r.value=a:null)},null,8,["src"]))}};export{i as default};

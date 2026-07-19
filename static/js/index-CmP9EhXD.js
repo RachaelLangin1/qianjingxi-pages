@@ -1,0 +1,1 @@
+import{C as a,D as c,p as n,q as p}from"./index-DrDDiF0M.js";const i={__name:"index",setup(u){const e=a(),t=c(),{params:o,query:r}=e,{path:s}=o;return t.replace({path:"/"+s,query:r}),(_,m)=>(p(),n("div"))}};export{i as default};
